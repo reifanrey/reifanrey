@@ -1,5 +1,14 @@
 ## Welcome to my Github Profile 👋
+###
+<p align="left">My name is Reifan Raif Erro Yogaswara and I'm a student, from Telkom University Bandung</p>
 
+###
+
+<h2>About Me</h2>
+<p align="left">
+🔭 I am currently working on a website portfolio<br>
+
+</p>
 <!--
 **reifanrey/reifanrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
