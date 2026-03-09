@@ -1,4 +1,4 @@
-## Welcome to my Github Profile 👋
+# Welcome to my Github Profile ⚡
 ###
 <p align="left">My name is Reifan Raif Erro Yogaswara and I'm a student, from Telkom University Bandung</p>
 
